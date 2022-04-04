@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.quadrado{
+  width: 200px;
+  height: 200px;
+  background-color: #6b61fb;
+  margin: 0px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: 50px;
+  
+}
+
+.principal{
+  display:flex;
+}
